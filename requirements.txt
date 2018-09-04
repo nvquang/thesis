@@ -1,6 +1,0 @@
-numpy
-tensorflow
-matplotlib
-scikit-learn
-scipy
-nltk
